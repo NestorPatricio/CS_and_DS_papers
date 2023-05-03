@@ -1,6 +1,6 @@
 # Computer and Data Science Papers
 
-### Papers I found intersting about Computer Science and Mathematics, and related issues.
+#### Papers I found interesting about Computer Science and Mathematics, and related issues.
 
 ## Computer Science
 - **[Portability of C Programs and the UNIX System](papers/S_Johnson_D_Ritchie_Portability_of_C_Programs_and_the_UNIX_System.pdf)** S. C. Johnson, D. M. Ritchie. The Bell System Technical Journal, 1978.
